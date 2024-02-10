@@ -8,7 +8,7 @@ Dashboards:
 
 Excel Dashboard: https://onedrive.live.com/embed?resid=1E73127CA561CFAF%21121&authkey=!AJDCaZ5hHmpkyoE&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
 
-Power BI Dashboard: https://onedrive.live.com/embed?resid=1E73127CA561CFAF%21123&authkey=!AD56WKhSxCEwrKs" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTIzMTlkZDUtZWZhYy00MjZjLWI5OTEtNWIyMGNiNDIwNjVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 Tableau Dashboard: Link
 
