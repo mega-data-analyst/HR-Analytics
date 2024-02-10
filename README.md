@@ -1,10 +1,14 @@
 Employee Attrition Analysis Repository
 
-Welcome to the Employee Attrition Analysis repository! This project aims to provide insights into employee attrition rates, demographic breakdowns, income distributions, work-life balance, years since promotion, and age groups.
+Welcome to the Employee Attrition Analysis repository! 
+This project aims to provide insights into employee attrition rates, demographic breakdowns, income distributions, work-life balance, years since promotion, and age groups.
 
 Dashboards:
+
 Excel Dashboard: https://onedrive.live.com/embed?resid=1E73127CA561CFAF%21121&authkey=!AJDCaZ5hHmpkyoE&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+
 Power BI Dashboard: Link
+
 Tableau Dashboard: Link
 
 Repository Contents:
