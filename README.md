@@ -6,7 +6,7 @@ This project aims to provide insights into employee attrition rates, demographic
 
 Dashboards:
 
-Excel Dashboard: https://onedrive.live.com/embed?resid=1E73127CA561CFAF%21121&authkey=!AJDCaZ5hHmpkyoE&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+Excel Dashboard: https://onedrive.live.com/embed?resid=1E73127CA561CFAF%21121&authkey=!AJDCaZ5hHmpkyoE&em=2
 
 Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTIzMTlkZDUtZWZhYy00MjZjLWI5OTEtNWIyMGNiNDIwNjVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
