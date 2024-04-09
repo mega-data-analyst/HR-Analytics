@@ -10,7 +10,7 @@ Excel Dashboard: https://onedrive.live.com/embed?resid=1E73127CA561CFAF%21121&au
 
 Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTIzMTlkZDUtZWZhYy00MjZjLWI5OTEtNWIyMGNiNDIwNjVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
-Tableau Dashboard: Link
+Tableau Dashboard: https://public.tableau.com/app/profile/megha.rawat/viz/HRanalytics_17082779940550/EmployeeRetention
 
 Repository Contents:
 
